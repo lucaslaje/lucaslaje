@@ -1,5 +1,5 @@
 
-###Lucas Laje
-###Northeastern University
-###Computer Science and Physics
-###Graduating 2027
+Lucas Laje
+Northeastern University
+Computer Science and Physics
+Graduating 2027
